@@ -10,3 +10,9 @@ Functionalities of the script:
   - Input roll numbers need not be in order (like 1, 2, 3... increasing order) as the script sorts the roll numbers before printing them.
   - Output is in ascending order (sorts present, absent and wrong roll numbers before printing).
 4. Added loader to make it look cool.
+5. Prints date.
+
+Python Modules needed:
+1. datetime
+2. time
+3. tqdm
